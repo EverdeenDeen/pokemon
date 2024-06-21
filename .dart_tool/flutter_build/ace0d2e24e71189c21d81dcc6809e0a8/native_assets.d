@@ -1,0 +1,1 @@
+ /Users/thakdanaisuntreerat/Desktop/github/pokemon/.dart_tool/flutter_build/ace0d2e24e71189c21d81dcc6809e0a8/native_assets.yaml: 
